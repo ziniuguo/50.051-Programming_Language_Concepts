@@ -4,10 +4,9 @@
 
 using namespace std;
 
-int main() {
 
-    fstream  f;
-    f.open("notExist",  ios::in | ios::out | ios::app);
-    f << "daisuki" << endl;
+
+int main() {
+    throw bad_alloc();
     return 0;
 }

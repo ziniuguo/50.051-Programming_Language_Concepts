@@ -1,4 +1,4 @@
-# Install script for directory: /home/ziniu/sutd/plc/cpp
+# Install script for directory: /home/ziniu/sutd/50.051-Programming_Language_Concepts/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ziniu/sutd/plc/cpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ziniu/sutd/50.051-Programming_Language_Concepts/cpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
