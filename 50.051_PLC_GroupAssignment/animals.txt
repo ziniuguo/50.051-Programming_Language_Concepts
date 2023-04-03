@@ -1,20 +1,28 @@
 ######
-Student - public
+Cat - public
 ######
 string get_name () {
 	return this->name;
 }
 ######
-Professor - private
+Cat - private
 ######
 void set_name (string n) {
 	this->name = n;
 }
 
 ######
-Student - protected
+Monkey - protected
 ######
-float average_gpa(Student s) {
+float average_gpa(Monkey s) {
 	cout << "Averaging 2 GPAs" << endl;
-return (this->gpa + s.gpa) / 2;
+	return (this->gpa + s.gpa) / 2;
+}
+
+######
+Dog - public
+######
+Dog(const Dog &d) {
+	id = d.id;
+
 }

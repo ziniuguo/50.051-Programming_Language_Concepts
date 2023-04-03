@@ -1,0 +1,92 @@
+[
+  {
+    "Class": "Cat",
+    "Instance": "cat1",
+    "A": "name",
+    "B": "Garfield",
+    "C": "a",
+    "D": 5,
+    "E": "f",
+    "F": 12.3
+  },
+  {
+    "Class": "Dog",
+    "Instance": "d",
+    "A": "id",
+    "B": 1004531,
+    "C": "nickname",
+    "D": "fluffy",
+    "E": "age",
+    "F": 5
+  },
+  {
+    "Class": "Monkey",
+    "Instance": "m",
+    "A": "origin",
+    "B": "space",
+    "C": "legs",
+    "D": 4,
+    "E": "gpa",
+    "F": 4.3
+  },
+  {
+    "Class": "Cat",
+    "Instance": "m_cat",
+    "A": "name",
+    "B": "Prout",
+    "C": "a",
+    "D": 3,
+    "E": "f",
+    "F": 43.5
+  },
+  {
+    "Class": "Dog",
+    "Instance": "d2",
+    "A": "id",
+    "B": 342443,
+    "C": "nickname",
+    "D": "gegergr",
+    "E": "age",
+    "F": 6
+  },
+  {
+    "Class": "Monkey",
+    "Instance": "stupidname123",
+    "A": "origin",
+    "B": "earth",
+    "C": "legs",
+    "D": 6,
+    "E": "gpa",
+    "F": 4.4
+  },
+  {
+    "Class": "Cat",
+    "Instance": "pokora",
+    "A": "name",
+    "B": "Mydog",
+    "C": "a",
+    "D": 35,
+    "E": "f",
+    "F": 233
+  },
+  {
+    "Class": "Dog",
+    "Instance": "doggy",
+    "A": "id",
+    "B": 4535,
+    "C": "nickname",
+    "D": "kbjbnkje",
+    "E": "age",
+    "F": 5645
+  },
+  {
+    "Class": "Monkey",
+    "Instance": "honnetementjesaisplus",
+    "A": "origin",
+    "B": 65546,
+    "C": "legs",
+    "D": 2,
+    "E": "gpa",
+    "F": 5
+  }
+]

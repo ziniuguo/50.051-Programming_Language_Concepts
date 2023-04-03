@@ -1,0 +1,12 @@
+﻿Class,Instance,Field1,Value1,Field2,Value2,Field3,Value3,Field4,Value4
+Student,s1,id,1002345,name,Toto,gpa,4.3,graduation,December 2023
+Professor,p1,name,Simon,dept,ISTD,salary,500,bonus,2340.3
+Student,s55,id,1002345,name,Toto,gpa,4.3,graduation,December 2023
+Student,s2,id,1002345,name,Toto,gpa,4.3,graduation,December 2023
+Student,s3,id,1002345,name,Toto,gpa,4.3,graduation,December 2023
+Student,s4,id,1002345,name,Toto,gpa,4.3,graduation,December 2023
+Professor,p1,name,Simon,dept,ISTD,salary,500,bonus,2340.3
+Professor,p2,name,Simon,dept,ISTD,salary,500,bonus,2340.3
+Professor,p3,name,Simon,dept,ISTD,salary,500,bonus,2340.3
+Professor,p4,name,Simon,dept,ISTD,salary,500,bonus,2340.3
+Professor,p5,name,Simon,dept,ISTD,salary,500,bonus,2340.3
